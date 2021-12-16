@@ -1,0 +1,85 @@
+/* these are the approved styles for the site */
+ 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:575757px;
+    background-color: rgb(42, 46, 45);
+}
+ 
+li {font-size: 14px;
+color: rgb(255, 255, 255);
+font-weight: normal;
+font-style: normal;
+font-size: large;
+}
+ 
+ 
+.resumelistheading{
+font-weight: bold;
+font-style: normal;
+}
+ 
+.underline {
+text-decoration: underline;
+font-weight: normal;
+color: blue;
+}
+ 
+.bold {
+font-weight: bold;
+}
+ 
+.justify{
+    text-align: justify;
+}
+ 
+.homebg{
+    background-image: url('Images/forest.jpg');
+    background-color: darkturquoise;
+    background-position: top left;
+    background-repeat: repeat;
+    background-size: 120%;
+}
+ 
+.homet{
+color: ivory;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: xx-large;
+}
+a{
+color: rgb(255, 255, 255);
+text-decoration: none;
+}
+ 
+a:hover{
+    text-decoration:    underline;
+    font-weight: bold;
+}
+ 
+a:visited{
+    color: mediumvioletred;
+}
+ 
+.box1{
+    border:solid 1px pink;
+    border-bottom: dotted 2px red;
+}
+ 
+ 
+.box2{
+    padding: 4px;
+}
+ 
+.box3{
+    margin: 50px;
+}
+ 
+.box4{
+padding-left: 10px;
+margin: 100px;
+border: solid right;
+}
+ 
+/* these styles were create just to demonstrate the box model. */
+
